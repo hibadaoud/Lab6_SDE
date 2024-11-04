@@ -1,0 +1,24 @@
+# Use an official Python runtime as a parent image
+FROM python:3.9-slim
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Install system dependencies for building and git
+RUN apt-get update && apt-get install -y \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install g4f dependencies
+#RUN pip install -r /app/g4f/requirements-min.txt
+RUN pip install -U g4f[all]
+RUN pip install streamlit
+
+COPY formal_informal.py /app
+
+# Expose the port the app runs on
+EXPOSE 8501
+
+
+# Command to run your streamlit app
+CMD ["streamlit", "run", "formal_informal.py"]
