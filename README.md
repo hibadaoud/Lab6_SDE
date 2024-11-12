@@ -6,7 +6,7 @@
 
 
 **Main Lab:**
-**_EX1:_**
+- **_EX1:_**
 In order to run our lab you have 2 options:
 - **OPTION1:**
   - Open Docker Desktop.
@@ -41,7 +41,7 @@ In order to run our lab you have 2 options:
      docker run -p 8501:8501 --name lab_container image_name
     ```
 
-**_EX2:_**
+- **_EX2:_**
 In order to run our lab you have 2 options:
 - **OPTION1:**
 - Open Docker Desktop.
