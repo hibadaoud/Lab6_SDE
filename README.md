@@ -1,9 +1,9 @@
-**PREREQUISITES:**
-    Install Docker Desktop on your laptops.
-      - **MAC:** [https://docs.docker.com/desktop/setup/install/mac-install/](https://docs.docker.com/desktop/setup/install/mac-install/)
-      - **WINDOWS:** [https://docs.docker.com/desktop/setup/install/windows-install/](https://docs.docker.com/desktop/setup/install/windows-install/)
-      - **Linux:** [https://docs.docker.com/desktop/setup/install/linux/](https://docs.docker.com/desktop/setup/install/linux/)
+**PREREQUISITES:**  
+Install Docker Desktop on your laptops.
 
+- **MAC:** [Install Docker for Mac](https://docs.docker.com/desktop/setup/install/mac-install/)
+- **WINDOWS:** [Install Docker for Windows](https://docs.docker.com/desktop/setup/install/windows-install/)
+- **Linux:** [Install Docker for Linux](https://docs.docker.com/desktop/setup/install/linux/)
 
 **Main Lab:**
 
