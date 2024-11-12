@@ -1,12 +1,13 @@
 **PREREQUISITES:**
     Install Docker Desktop on your laptops.
-      - MAC:  [https://docs.docker.com/desktop/setup/install/mac-install/](https://docs.docker.com/desktop/setup/install/mac-install/)
-      - WINDOWS: [https://docs.docker.com/desktop/setup/install/windows-install/](https://docs.docker.com/desktop/setup/install/windows-install/)
-      - Linux: [https://docs.docker.com/desktop/setup/install/linux/](https://docs.docker.com/desktop/setup/install/linux/)
+      - **MAC:** [https://docs.docker.com/desktop/setup/install/mac-install/](https://docs.docker.com/desktop/setup/install/mac-install/)
+      - **WINDOWS:** [https://docs.docker.com/desktop/setup/install/windows-install/](https://docs.docker.com/desktop/setup/install/windows-install/)
+      - **Linux:** [https://docs.docker.com/desktop/setup/install/linux/](https://docs.docker.com/desktop/setup/install/linux/)
 
 
 **Main Lab:**
-- **_EX1:_**
+
+**_EX1:_**
 In order to run our lab you have 2 options:
 - **OPTION1:**
   - Open Docker Desktop.
