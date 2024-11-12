@@ -48,7 +48,7 @@ In order to run our lab you have 2 options:
 - Open Docker Desktop.
 - Run the container on a different port:
   ```
-  docker run -p 8502:8501 --name lab_container hiba25/lab6_image_1
+  docker run -p 8502:8501 --name lab_container hiba25/lab6_image_2
   ```
 - Open [http://localhost:8502](http://localhost:8502) in a browser.
 
