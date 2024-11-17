@@ -19,7 +19,7 @@ In order to run our lab you have 2 options:
 
 - **OPTION2:**
   - Create a new folder.
-  - Download the image file in that folder.
+  - Download the docker image file [lab6_image_1.tar] (https://drive.google.com/drive/folders/1yAccadetzAV3qKVh5O5gbHskZWKDYWTB) in that folder.
   - Open Docker Desktop.
   - Load the image using:  
     ```
@@ -54,7 +54,7 @@ In order to run our lab you have 2 options:
 
 - **OPTION2:**
 - Create a new folder.
-- Download the image file in that folder.
+  - Download the docker image file [lab6_image_2.tar] (https://drive.google.com/drive/folders/1yAccadetzAV3qKVh5O5gbHskZWKDYWTB) in that folder.
 - Open Docker Desktop.
 - Load the image:  
   ```
